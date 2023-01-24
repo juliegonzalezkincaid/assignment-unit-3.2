@@ -55,7 +55,7 @@ for (let i = 5; i>=0; i-=1){
 
 
 
-
+//? i dont know what im doing here
 
 // 2. For of loops  
 console.log('---- 2. For Of loop ----');
@@ -115,9 +115,9 @@ console.log('count from 0 to 5');
 
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
 i = 10
-while (i>5){
-  console.log(i -= 1);
-  i-=5
+while (i>=5){
+  console.log(i +"...");
+  i--;
 }
 
 
